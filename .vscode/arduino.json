@@ -1,0 +1,7 @@
+{
+    "sketch": "Uno-MCP2515-CANBUS-Shield.ino",
+    "port": "COM3",
+    "board": "arduino:avr:uno",
+    "output": "../build",
+    "intelliSenseGen": "global"
+}
